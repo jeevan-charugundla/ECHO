@@ -1,7 +1,8 @@
 {
-  "name": "frontend",
+  "name": "echo-intelligence-workspace",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "ECHO — Multimodal Evidence Intelligence Engine powered by Google Gemma 4",
   "type": "module",
   "scripts": {
     "dev": "vite",

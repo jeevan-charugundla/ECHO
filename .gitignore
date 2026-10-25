@@ -1,0 +1,25 @@
+# Environment variables
+.env
+backend/.env
+*.env.local
+
+# Node
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+backend/data/*.json
+backend/data/*.db
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
